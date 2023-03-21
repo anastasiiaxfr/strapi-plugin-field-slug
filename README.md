@@ -5,7 +5,7 @@ Slug has autocomplete default generated value in format: post-year-month-day-hou
 
 ## Instalation
 Install the plugin in your Strapi project.
-- npm i @anastasiia_berest/custom-slug
+- npm i custom-slug [npm](https://www.npmjs.com/package/custom-slug)
 <!-- - in root folder cd config folder and touch plugins.js
   paste this: 
 
