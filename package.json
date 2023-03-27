@@ -1,6 +1,6 @@
 {
   "name": "custom-slug",
-  "version": "2.0.3",
+  "version": "1.0.0",
   "description": "Auto Generated rewritable Slug field (same for different locales). Default value format: post-${year}-${month}-${day}-${hours}-${minutes}-${seconds}",
   "strapi": {
     "name": "slug",
