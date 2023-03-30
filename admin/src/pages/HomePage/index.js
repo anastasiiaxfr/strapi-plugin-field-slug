@@ -17,7 +17,7 @@ const HomePage = () => {
         <li> autocomplete uniq default value </li>
         <li> same slug value to all locales </li>
         <li> rewritable data </li>
-        <li> not deletable data (it's bug for changing in feature release) </li>
+        <li> different patterns value to autofill slug field placeholder </li>
       </ul>
     </div>
   );

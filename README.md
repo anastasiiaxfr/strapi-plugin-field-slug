@@ -20,18 +20,6 @@ Id generated automatically after clicking on button Save. If you don't choose an
 ## Instalation
 Install the plugin in your Strapi project.
 - npm i custom-slug | [npm](https://www.npmjs.com/package/custom-slug)
-<!-- - in root folder cd config folder and touch plugins.js
-  paste this: 
-
-```
-    module.exports = {
-    // ...
-    'slug': {
-      enabled: true
-    },
-    //...
-    }
-``` -->
 - npm run build > npm run develop
 - go to admin > Content Type Builder > choose content type > click to button Add another field (to this collection type) > select tab CUSTOM > click on slug plugin tile > add name to field label > click on button finish > click on button save.
 - go to tab Advanced settings and check it off Enable localization for this field to FALSE (if it is TRUE/checked plugin generate unique value for every entry for all locales)
